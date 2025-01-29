@@ -1,0 +1,46 @@
+project:
+  type: website
+
+website:
+  title: "Responsible Research Metrics Self Study Module"
+  navbar:
+    logo: "images/USH0149.png"
+    left:
+      - href: index.pmd
+        text: Home
+      - Section 1.qmd
+      - Section 2.qmd
+      - Section 3.qmd
+      - Section 4.qmd
+      - about.qmd
+  
+  sidebar: 
+    style: docked
+    search: true
+    contents:
+      - href: index.qmd
+        text: "Home"
+      - href: Section 1.qmd
+        text: "Section 1"
+      - href: Section 2.qmd
+        text: "Section 2"
+      - href: Section 3.qmd
+        text: "Section 3"
+      - href: Section 4.qmd
+        text: "Section 4"
+      - href: about.qmd
+        text: "About"
+        
+  back-to-top-navigation: true
+  page-navigation: true  
+  page-footer: "Created by the Kate Lapage, Clare Hemmings and Lorrange Smith @ University of Southampton Library shared under a CC BY licence"
+      
+format:
+  html:
+    link-external-newwindow: true
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

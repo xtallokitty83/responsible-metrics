@@ -1,0 +1,123 @@
+---
+title: "Section 1"
+format: html
+---
+
+## Section 1 - Responsible research metrics overview
+
+In this first section you will explore:
+
+-   What metrics are in the context of research
+-   The principles of responsible metrics
+-   Guidelines around the responsible use of metrics
+
+### **What are metrics?**
+
+Metrics are a quantitative snapshot of how research outputs perform. A research output is anything that disseminates research; for instance a journal article, a book, an exhibition or software. Metrics can look at one research output, at the outputs from a single researcher or at the entire output of a department or University. The majority of metrics primarily focus on journal articles but metrics may be available for other research types.
+
+There are many different types of metrics and they each have a prescribed purpose.
+
+When using metrics it is important to have a question you are trying to answer so you can decide which metrics to use.
+
+Using the wrong metric can have real world implications, from making false claims to causing reputational harm, which could impact future career ambitions or cause institutional damage.
+
+### **Principles of responsible metrics**
+
+As research disciplines and outputs are so varied there is no set step-by-step guide to carrying out a metrics analysis. Instead, there are a set of principles that should be followed[:]{.underline} Transparency, Appropriateness, Equality, Reproducible and Continual Reassessment.
+
+#### **Transparency** 
+
+Transparency in metrics means having an explanation in clear, simple language to ensure end-users understand the data used, its reliability and its limitations. 
+
+Essentially what, where and when; 
+
+-   What metrics were used? 
+-   Where did the data come from (sources)? 
+-   When was the assessment made? – the assessment is only a snapshot in time as the data sources update over time 
+
+#### **Equality** 
+
+The use of Metrics should be fair.  You should only compare like-for-like i.e. make comparisons within a single discipline, a limited time period, or using a normalised metric.
+
+Consistency is important. If you can't apply the same method across your analysis you should not use that method. 
+
+Be aware that individuals may not be directly comparable due to length of service or time out of work such as for maternity leave.
+
+-   E.g. you should not compare an early career researcher with a researcher who has 20 years of experience unless you have restricted the comparison to a suitable time frame. 
+
+#### **Appropriateness** 
+
+All metrics should be tailored to the focus of the analysis. Use metrics for their intended purpose only.
+
+-   For example, you must not use a journal metric to infer the quality of an individual output or a person’s contribution to research.
+
+Metrics should only be used when necessary and should be used in conjunction with expert testimony rather than in isolation. 
+
+When assessing a person, metrics must not be used as the sole source of information. This is especially true for employment status, but also for personal reputation in a formal or informal context. 
+
+-   For example, a highly cited paper might be highly cited because everyone disagrees with it
+
+It is recommended that you use more than one metric to verify results. 
+
+#### **Reproducible** 
+
+Anyone should be able to reproduce your results by using the explanation you have provided.
+
+#### **Continually reassess** 
+
+Continually assess commonly used metrics, especially concerning appropriateness and equality. If a metric is no longer fit for purpose, it should not be used. 
+
+### **Guidelines around metrics**
+
+A number of guidelines have been published which look to shape our approach to responsible metrics.  The University has its own [responsible metrics policy](https://www.southampton.ac.uk/about/governance/regulations-policies/policies/responsible-research-metrics){target="_blank"} which is based on the principles of DORA. Below are summaries of three key international initiatives, each of which advise on a different aspect: 
+
+[**DORA (the Declaration of Research Assessment)**](https://sfdora.org/read/){target="_blank"} 
+
+DORA is a set of principles that were published in 2012.  They are designed to ensure that the quality and impact of scientific outputs is “measured accurately and evaluated wisely.”
+
+DORA focuses particularly on the use of journal-based metrics. Its key tenet is to “do not use journal-based metrics, such as Journal Impact Factors (JIFs), as surrogate measures of the quality of individual research articles, to assess an individual scientist’s contributions, or in hiring, promotion, or funding decisions”. 
+
+DORA also supports the idea that research should be assessed on its own merits and not influenced by the reputation of the journal in which it has been published. 
+
+The University of Southampton is a signatory of DORA.
+
+[**CoARA (Coalition of Advancing Research Assessment)**](https://coara.eu/app/uploads/2022/09/2022_07_19_rra_agreement_final.pdf){target="_blank"} 
+
+The CoARA initiative was launched in January 2022 and builds on DORA and other initiatives.  Its core principle is "that in the assessment of research, researchers and research organisations needs to recognise that diverse outputs, practices and activities contribute to the quality and impact of research.  This requires basing assessment primarily on qualitative judgement for which peer review is central, supported by the responsible use of quantitative indicators" (metrics). 
+
+[**Barcelona Declaration on Open Research Information**](https://barcelona-declaration.org/){target="_blank"} 
+
+Launched in April 2024, the Barcelona Declaration has the backing of research and funding organisations who have endorsed its commitment to “make openness the default for the research information we use and produce”. 
+
+One of its central recommendations is that we should move away from the use of closed and commercial data sources and work towards services and systems that support and enable open research information.  These open tools should then give access to metrics that have greater transparency and reproducibility. 
+
+### **Where might you see metrics used?**
+
+Metrics are used in a wide range of activities such as;
+
+-   Research Assessment
+-   Grant applications
+-   Recruitment
+-   Promotion
+-   League Tables such as QS
+
+Thank you for taking the time to complete this section of the course.
+
+### **What’s next?**
+
+Complete further sections
+
+-   Section 2 - Using metrics in research assessment
+-   Section 3 - Using metrics in personal applications and evaluations
+-   Section 4 - Assessing people using metrics
+
+Read the [University responsible metrics policy](https://www.southampton.ac.uk/about/governance/regulations-policies/policies/responsible-research-metrics){target="_blank"}
+
+Visit our [Libguide on Metrics](https://library.soton.ac.uk/bibliometrics){target="_blank"}
+
+Specific question? Contact us at eprints\@soton.ac.uk
+
+Further Resources external to the University:
+
+-   Deakin Library Metrics Toolkit: [https://deakin.libguides.com/research-metrics/about](https://deakin.libguides.com/research-metrics/about){target="_blank"}
+-   What are Responsible Metrics by University of Exeter (4 minute Youtube video): [https://www.youtube.com/watch?v=kTYb623Slg4](https://www.youtube.com/watch?v=kTYb623Slg4){target="_blank"}

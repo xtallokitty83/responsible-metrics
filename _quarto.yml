@@ -1,5 +1,13 @@
 project:
   type: website
+    output-dir: docs
+  render: 
+    - index.qmd
+    - Section 1.qmd
+    - Section 2.qmd
+    - Section 3.qmd
+    - Section 4.qmd
+    - About.qmd
 
 website:
   title: "Responsible Research Metrics Self Study Module"

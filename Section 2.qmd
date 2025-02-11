@@ -7,31 +7,30 @@ format: html
 
 This section is designed for:
 
--   Anyone who is interested in how metrics contribute to research assessment
--   Anyone who is involved in assessing research where metrics may be used as an assessment tool
+-   anyone who is interested in how metrics contribute to research assessment;
+-   anyone who is involved in assessing research where metrics may be used as an assessment tool.
 
 In this this section you will explore:
 
--   Guidance on how to use metrics in research assessment
--   An example question
+-   guidance on how to use metrics in research assessment;
+-   an example question.
 
 ### Assessing Research Using Metrics
 
 When you are assessing research using metrics you must have a question that you are trying to answer or task that you are trying to resolve. This question will help guide you to the correct metrics to use.
 
-When you have your question or task, you should break down into the following questions;
+When you have your question or task, you should break down into the following questions:
 
 -   What do I need to find out?​
 -   How will I use the data?​
 -   How do I need to present the results?​
 -   Do I need to use a specific source?​
 -   When is it required by? 
--   What do I need to find out?​
 -   What are the limitations of my data?
 
 **What do I need to find out?​**
 
-First of all you need to think carefully about what it is you're trying to assess.
+First of all you need to think carefully about what it is you are trying to assess.
 
 Once you have established this, the next stage is to identify which type of metrics and sources should be used to carry out the assessment.
 
@@ -43,9 +42,9 @@ You should keep a record of what you do to the data and how you obtained it, so 
 
 **How do I need to present the results?​**
 
-How you present results can inform what source you use. Sometimes a table of results will be sufficient. However, there are also metric tools that can create visualisations for you, such as [VOSviewer.](https://www.vosviewer.com/)
+How you present results can inform what source you use. Sometimes a table of results will be sufficient. However, there are also metric tools that can create data visualisations for you, such as [VOSviewer.](https://www.vosviewer.com/)
 
-Whatever format you decide on it should be appropriate to the question you are trying to answer.
+Whatever format you decide on, it should be appropriate to the question you are trying to answer.
 
 **Do I need to use a specific source?​**
 
@@ -53,33 +52,33 @@ You may be asked to use a particular source to obtain your metrics, this might b
 
 **When is it required by? ​**
 
-The online sources you will use to find your initial data continuously update. It therefore might be appropriate to wait until nearer your deadline as further citations may have accumulated.
+The online sources you will use to find your initial data continuously update. It therefore might be appropriate to wait until nearer your deadline as further citations may be accrued.
 
-It's important to be clear and transparent about the sources you use so always say when and where you got your data from.
+It's important to be clear and transparent about the sources you use, so always say when and where you got your data from.
 
 **What are the limitations of my data?**
 
-All data has limitations, you need to think about what might be missing or whether anything has been included which perhaps shouldn’t have been.
+All data have limitations, you need to think about what might be missing or whether anything has been included which perhaps shouldn’t have been.
 
-What, if any, assumptions have you had to make about your data to be able to proceed with your analysis?
+What, if any, assumptions have you made about your data to be able to proceed with your analysis?
 
-Be clear about the limitations of your data when you record how you've used it.
+Be clear about the limitations of your data when you record how you have used it.
 
 ### **Example Question**
 
-So how might we go about responsibly answering the question in papers in the same discipline or by the same author? Let us take this question.
+So, how might we go about responsibly answering the question in papers in the same discipline or by the same author? Let us take this question.
 
 *Why did paper x do so much better than paper y?​*
 
-To begin with we need to decide how we are quantifying ‘better’.
+To begin with, we need to decide how we are quantifying ‘better’.
 
-Once this definition is decided you can source metrics and information and then do a like-for-like comparison.
+Once this definition is decided you can source metrics and information to do a like-for-like comparison.
 
 You will need to be conscious of:
 
--   date i.e. is one paper newer?
--   open access status – can one paper be accessed by a wider potential audience?
--   journal – if you have still not been able to determine from the information you have you may want to look at the publication. For example it may be that one paper was published in a society journal that only a few people read while the other was published in a big multidisciplinary journal.
+-   Date i.e. is one paper newer?
+-   Open access status – can one paper be accessed by a wider potential audience?
+-   Journal – if you unable to explain a difference in metrics between two outputs using the information you have, you may want to look at the publication. For example, it may be that one paper was published in a society journal, while the other was published in a multidisciplinary journal, explaining a difference in attention.
 
 Let’s work it through with some hypothetical data.
 
@@ -95,18 +94,18 @@ Let’s work it through with some hypothetical data.
 
 ***better = cited more***
 
-This is a very simple assessment and looking at the data we can determine that *Sample paper titled X* has performed better, this will be because the paper is published in 2021, 2 years before *Sample paper titled Y* so citations have had more time to accumulate.
+This is a very simple assessment and looking at the data we can determine that *Sample paper titled X* has performed better, this will be because the paper is published in 2021, 2 years before *Sample paper titled Y*, so citations have had more time to accumulate.
 
 **However**
 
 ***better=more impact***
 
-If we are looking at impact we can't tell the impact of a paper from citation count alone so we can look for more data. The original data doesn't tell us where the citation count comes from.
+If we are looking at impact we cannot tell the impact of a paper from citation count alone, so we can look for more data. The original data doesn't tell us where the citation count comes from.
 
 As I don’t know the source I will go to a database like Scopus and look at each paper to find more data. There I find the citation count, the Field Weighted Citation Impact and Plum X metrics.
 
 -   Field Weighted Citation Impact is a normalised metric that allows us to compare papers of different ages and disciplines - 1 is considered normal or average.
--   Plum X metrics are an example of an almetrics these look at social media engagement, such as likes and shares, and engagement in platforms like Mendeley.
+-   Plum X metrics are an example of an altmetrics. These look at social media engagement, such as likes and shares, and engagement in platforms like Mendeley.
 
 *A.N.Other (2021) Sample paper titled X, Journal of Things,*
 
@@ -122,7 +121,7 @@ As I don’t know the source I will go to a database like Scopus and look at eac
 
 This tells me that although *Sample paper titled X* has over double the amount of citations, the two papers have very similar Field Weighted Citation Impacts and captures so actually both papers have about the same amount of impact so *Sample paper titled X* isn’t doing much better than *Sample paper titled Y* at all.
 
-As you can see from this example, citation numbers don’t always give you the full picture. You need to consider other factors, such as age, discipline and journal reach, too. The question you ask will determine the answer you get. So take your time and don't make snap decisions.
+As you can see from this example, citation numbers don’t always give you the full picture. You need to consider other factors, such as age, discipline and journal reach too. The question you ask will determine the answer you get. So, take your time and don't make snap decisions.
 
 ### **What’s next?**
 

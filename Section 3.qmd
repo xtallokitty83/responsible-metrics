@@ -7,19 +7,19 @@ format: html
 
 This section is designed for: 
 
--   Anyone who is interested in understanding author metrics  
--   Anyone who is applying for job roles, promotion cycles or applying for funding/grant applications where research may be used as an assessment tool 
+-   anyone who is interested in understanding author metrics;
+-   anyone who is applying for job roles, promotion cycles or applying for funding/grant applications where research may be used as an assessment tool.
 
 In this section you will explore: 
 
--   metrics in the context of individual research 
--   Sources of metrics 
--   Limitation of metrics 
--   Guidance on how to use metrics 
+-   metrics in the context of individual research;
+-   sources of metrics;
+-   limitation of metrics;
+-   guidance on how to use metrics.
 
 ### Introduction to section
 
-Metrics are a quantitative snapshot of how some of your research outputs have performed.  
+Metrics are a quantitative snapshot (i.e. indicators) of how some of your research outputs have performed.  
 
 While your research output is a significant contribution, it's only a part of your broader role as a researcher. Your knowledge of your contribution to your research area is greater than a snapshot list of numbers.  
 
@@ -27,13 +27,13 @@ If you haven’t been asked to provide metrics, and if you can evidence the impa
 
 ### **How to get metrics if you need them** 
 
-You can obtain metrics by using an indexing database such as;
+You can obtain metrics by using an indexing database such as:
 
--   [Scopus](https://www.scopus.com/){target="_blank"} ^+^ 
--   [Web of Science](https://webofknowledge.com/WOS){target="_blank"} ^+^
--   [Dimensions](https://app.dimensions.ai/discover/publication){target="_blank"}\*
--   [Google Scholar](http://scholar.google.co.uk/citations?view_op=top_venues&hl=en){target="_blank"}\*
--   [Open Alex](https://openalex.org/){target="_blank"}\*
+-   [Scopus](https://www.scopus.com/){target="_blank"}. ^+^ 
+-   [Web of Science](https://webofknowledge.com/WOS){target="_blank"}. ^+^
+-   [Dimensions](https://app.dimensions.ai/discover/publication){target="_blank"}.\*
+-   [Google Scholar](http://scholar.google.co.uk/citations?view_op=top_venues&hl=en){target="_blank"}.\*
+-   [Open Alex](https://openalex.org/){target="_blank"}.\*
 
 Some of these databases are free to use with an account(\*) and some of these are accessible via University of Southampton subscriptions(^+^). They all have a search function which will allow you to search for your name and/or Researcher ID such as [ORCID](https://support.orcid.org/hc/en-us){target="_blank"} and from there you can review how your research has been indexed by these systems. 
 
@@ -44,18 +44,18 @@ Contact the [metrics service](https://library.soton.ac.uk/bibliometrics/services
 ### **Limitations of Metrics** 
 
 -   Not all research outputs will be indexed
-    -   Typically journal articles and some books may be indexed
-    -   STEM journals are more likely to be indexed than Arts, Humanities and Social Sciences 
-    -   Smaller publishers may not index their journals 
-    -   It can take up to six months from publication for your article to be indexed (sometimes even longer!)
-    -   Content may have been wrongly affiliated to you or your content wrongly affiliated to someone else
--   Citations take a long time to accumulate 
--   There is no way of knowing if citations are positive or negative 
+    -   Typically journal articles and some books may be indexed.
+    -   STEM journals are more likely to be indexed than Arts, Humanities and Social Sciences.
+    -   Smaller publishers may not index their journals.
+    -   It can take up to six months from publication for your article to be indexed (sometimes even longer!).
+    -   Content may have been wrongly affiliated to you or your content wrongly affiliated to someone else.
+-   Citations take a long time to accumulate.
+-   There is no way of knowing if citations are positive or negative from metrics. Note, some services do perform sentiment analysis on citations.
 
 ### **Ways you could use metrics** 
 
--   You could use metrics to evidence statements you make about your research
--   You may be asked to provide a list such as your 'top' or 'best' papers
+-   You could use metrics to evidence statements you make about your research.
+-   You may be asked to provide a list such as your 'top' or 'best' papers.
 
 If you use metrics you need to use them responsibly, for example, using the correct type of metric for your purpose. 
 
@@ -87,16 +87,15 @@ A common question we see is authors asking for help creating a list of their 'be
 
 Some will argue that 'best' means the highest cited, but that automatically puts your newest papers at a disadvantage, as citations take time to accumulate. Some will say 'best' is most impactful which can be harder to prove. If it hasn't been defined for you by the people making the assessment, it is important to state how you have defined best and then use relevant evidence.
 
-So how could you evidence your 'best' publications? 
+So, how could you evidence your 'best' publications? 
 
--   List of articles and their citation count – this favours your older papers 
--   Normalised metrics such as field-weighted citation index– this gives your newer content a fairer chance against older content 
--   Altmetrics – metrics about alternative types of research such as hits on a public-facing website, or social media engagement with an article are particularly useful when looking at impact
--   Media engagement – has your article been citated outside of academia such as the news? 
+-   List of articles and their citation count – this favours your older papers.
+-   Normalised metrics such as field-weighted citation index– this gives your newer content a fairer chance against older content.
+-   Altmetrics – metrics derived from alternative types of research output, such as citations or acknowledgements on a public-facing website, social media engagement, or attention from the news media are particularly useful when assessing impact.
 -   Policy citations – has your research been used in government policy? 
 -   Patent citations – has your research been used by someone filing a patent? 
 
-When using metrics to assess research or during an application you should approach your task with as much rigour and mindfulness of methodology as you would when you undertake your normal research practices. The answer you will get will depend on the questions you ask. It should be clear as to how you have come to your conclusions so that your analysis is easily reproducible.
+When using metrics to assess research or during an application you should approach your task with as much rigour and mindfulness of methodology as you would when you undertake your own research practices. The answer you will get will depend on the questions you ask. It should be clear as to how you have come to your conclusions so that your analysis is rigorous and reproducible.
 
 Thank you for taking the time to complete this section of the course. If you need additional help and support with your own applications please contact the [metrics service](https://library.soton.ac.uk/bibliometrics/services){target="_blank"} for support.
 

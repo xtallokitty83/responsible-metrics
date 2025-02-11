@@ -7,19 +7,19 @@ format: html
 
 This section is designed for:
 
--   Anyone interested in how author metrics contribute to research assessment
--   Anyone who undertakes or supports recruitment activities, promotion cycles or funding/grants applications where author metrics may be used as an assessment tool
+-   anyone interested in how author metrics contribute to research assessment;
+-   anyone who undertakes or supports recruitment activities, promotion cycles or funding/grants applications where author metrics may be used as an assessment tool.
 
 In this section you will explore:
 
--   How to use metrics in your assessment
--   Limitations of metrics
+-   how to use metrics in your assessment;
+-   limitations of metrics.
 
 ### Introduction to section
 
 Metrics are a quantitative snapshot of how some of a researcher’s research outputs have performed. There are multiple sources of metrics and many different types of metrics for different types of analysis.
 
-Using metrics when assessing research outputs is a valuable but limited measure of a researcher's contributions. Metrics should never be used as the sole assessment criteria, any evaluation of a researcher's performance should not be solely based on a set of numbers that don't fully reflect their contribution. Their expert judgment and knowledge of their own research are invaluable and should not be overshadowed by quantitative measures. A narrative approach can more accurately reflect the full breadth and depth of a researcher's
+Using metrics when assessing research outputs is a valuable but limited measure of a researcher's contributions. Metrics should never be used as the sole assessment criteria, any evaluation of a researcher's performance should not be solely based on a set of numbers that don't fully reflect their contribution. Their expert judgment and knowledge of their own research are invaluable and should not be overshadowed by quantitative measures. A narrative approach can more accurately reflect the full breadth and depth of a researcher's impact.
 
 ### **Using Metrics in Assessment**
 
@@ -27,29 +27,29 @@ If you need metrics to help you in your decision-making process there are severa
 
 -   Set a time frame e.g. 5 years,
     -   restricting to a time frame makes it easier to compare academics at different career stages or researchers who might have had a career break.
--   Define what you mean by ‘best’ or ‘top’ publication(s) so researchers can focus their statements/evidence and ensure that you are comparing the same thing
--   Specify a particular source to use or a specific metrics to use
-    -   Some metrics are software/database specific, some of which are available via subscription only and therefore may not be available to all candidates
--   Ask the metrics service to provide metrics for the group of candidates so that everyone will be assessed in the same way at the same time. Please contact us at [eprints\@soton.ac.uk](mailto:eprints@soton.ac.uk) to discuss
+-   Define what you mean by ‘best’ or ‘top’ publication(s) so researchers can focus their statements/evidence and ensure that you are comparing the same thing.
+-   Specify a particular source to use or a specific metrics to use.
+    -   Some metrics are software/database specific, some of which are available via subscription only and therefore may not be available to all candidates.
+-   Ask the metrics service to provide metrics for the group of candidates so that everyone will be assessed in the same way at the same time. Please contact us at [eprints\@soton.ac.uk](mailto:eprints@soton.ac.uk) to discuss.
 
 ### **Limitations of metrics and things to be aware of**
 
--   Not all research outputs will be indexed;
-    -   Typically journal articles and some books may be indexed
-    -   STEM journals are more likely to be indexed than Arts, Humanities and Social Sciences 
-    -   Smaller publishers may not index their journals 
-    -   It can take up to six months from publication for articles to be indexed 
+-   Not all research outputs will be indexed
+    -   Typically journal articles and some books may be indexed.
+    -   STEM journals are more likely to be indexed than Arts, Humanities and Social Sciences.
+    -   Smaller publishers may not index their journals.
+    -   It can take up to six months from publication for articles to be indexed.
     -   Content may have been wrongly affiliated to a researcher or their content wrongly associated with someone else.  
--   Citations take a long time to accumulate favouring older papers over new
--   Lack of context
-    -   There is no way of knowing if citations are positive or negative 
-    -   Volume of citations vary across disciplines, if you are subject expert you may have the contextual knowledge of what to expect but, if not it can be hard to determine whether it is good or not
--   Requesting ‘top 10’ lists may automatically put early career researchers at a disadvantage
+-   Citations take a long time to accrue, favouring older papers over new.
+-   Lack of context:
+    -   there is no way of knowing if citations are positive or negative;
+    -   volume of citations vary across disciplines, if you are subject expert you may have the contextual knowledge of what to expect but, if not it can be hard to determine whether it is good or not.
+-   Requesting ‘top 10’ lists may automatically put early career researchers at a disadvantage.
 -   Different software/databases count things in different ways so it may lead to results you cannot compare.
--   Researchers may use flawed metrics such as h-index, as a proxy of quality and not a true reflection of contribution
--   Researchers may use metrics incorrectly or use the wrong type of metric for the assessment they are making; for example using a journal metric to infer the quality onto their article
+-   Researchers may use flawed metrics such as h-index, as a proxy of quality and not a true reflection of contribution.
+-   Researchers may use metrics incorrectly or use the wrong type of metric for the assessment they are making; for example using a journal metric to infer the quality onto their article.
 
-The key to using metrics in an assessment of people is to be consistent and fair. If you are not a specialist in a subject area you may not have the contextual knowledge to know if the citation volume given is high, low or expected. In some disciplines 15 citations is very high whereas in others it is low.
+The key to using metrics in an assessment of people is to be consistent and fair. If you are not a specialist in a subject area you may not have the contextual knowledge to know if the citation volume given is high, low or expected. In some disciplines 15 citations is very high whereas in others it is more typical.
 
 Researchers are ultimately more than just their scholarly output so you should never base your decision solely on metrics. These should be used as part of a number of ways to assess the researcher as a whole before any decision is made.
 

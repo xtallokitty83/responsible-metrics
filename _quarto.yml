@@ -21,7 +21,7 @@ website:
   navbar:
     logo: "images/USH0149.png"
     left:
-      - href: index.pmd
+      - href: index.qmd
         text: Home
       - Section 1.qmd
       - Section 2.qmd

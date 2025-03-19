@@ -1,5 +1,6 @@
 ---
 title: "About"
+format: html
 ---
 
 This is version 1 of the Responsible Research Metrics Self-Study module. The module was written by the Bibliometrics Team at the University of Southampton Library in 2024 and released in February 2025.

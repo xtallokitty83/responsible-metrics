@@ -7,7 +7,7 @@ project:
     - Section 2.qmd
     - Section 3.qmd
     - Section 4.qmd
-    - About.qmd
+    - about.qmd
 
 website:
   title: "Responsible Research Metrics Self Study Module"

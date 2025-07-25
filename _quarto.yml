@@ -11,7 +11,7 @@ project:
 
 website:
   title: "Responsible Research Metrics Self Study Module"
-  repo-url: "https://github.com/UniSotonLibrary/responsible-metrics/"
+  repo-url: "https://xtallokitty83.github.io/responsible-metrics/"
   repo-branch: main
   repo-actions:
   - edit

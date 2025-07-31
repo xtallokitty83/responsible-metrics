@@ -17,7 +17,7 @@ Metrics are a quantitative snapshot of how research outputs perform. A research 
 
 There are many different types of metrics and they each have a prescribed purpose.
 
-When using metrics it is important to have a question you are trying to answer so you can decide which metrics to use.
+When using all these metrics it is important to have a question you are trying to answer so you can decide which metrics to use.
 
 Using the wrong metric can have real world implications, from making false claims to causing reputational harm, which could impact future career ambitions or cause institutional damage.
 

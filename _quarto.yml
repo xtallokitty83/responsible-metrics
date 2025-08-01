@@ -19,7 +19,7 @@ website:
   google-analytics: 
     tracking-id: "G-KBY6B9VX9V"
   navbar:
-    logo: "images/USH0149.png"
+    logo: "images/1000008896(2).jpg"
     left:
       - href: index.qmd
         text: Home

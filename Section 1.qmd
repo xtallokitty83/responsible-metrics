@@ -25,7 +25,7 @@ Using the wrong research metric can have real world implications, from making fa
 
 As research disciplines and outputs are so varied there is no set step-by-step guide to carrying out an analysis. Instead, there are a set of principles that should be followed[:]{.underline} Transparency, Appropriateness, Equality, Reproducible, and Continual Reassessment.
 
-#### **Transparency** 
+#### **Transparencies** 
 
 Transparency in metrics means having an explanation in clear, simple language to ensure end-users understand the data used, its reliability and its limitations. 
 

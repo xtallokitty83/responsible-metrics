@@ -9,6 +9,7 @@ In this first section you will explore:
 
 -   what metrics are in the context of research;
 -   the principles of responsible metrics;
+-   the role of altmetrics in research evaluation; and
 -   guidelines around the responsible use of metrics.
 
 ### **What are metrics?**

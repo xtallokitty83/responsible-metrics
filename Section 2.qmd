@@ -8,6 +8,7 @@ format: html
 This section is designed for:
 
 -   anyone who is interested in how metrics contribute to research assessment;
+-   anyone who likes metrics;
 -   anyone who is involved in assessing research where metrics may be used as an assessment tool.
 
 In this this section you will explore:
